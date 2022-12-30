@@ -1,7 +1,7 @@
 # Weather-App
 It is  a weather app ,where you can search for a city name and get the current weather details on it.
 # Screenshot
-![](./Weather.png)
+![](./1.png)
 # TECH STACK 🧑‍💻
 HTML , CSS , JAVASCRIPT .
 # API
